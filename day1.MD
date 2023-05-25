@@ -1,0 +1,17 @@
+## This is a formatted heading
+
+# this is a bigger heading
+
+```
+this is a code block
+```
+
+pwd - present working directory, tells you where you are
+
+ls - lists out the files and folders in the current directory
+
+cd - change directory, changes the folder. Up or down
+
+mkdir = creates a directory or folder
+
+touch = creates a file. Single file, not used for directories.
